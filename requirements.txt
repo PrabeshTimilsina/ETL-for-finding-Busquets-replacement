@@ -1,4 +1,4 @@
 kaggle
 pandas
 sqlalchemy
-sklearn
+scikit-learn
