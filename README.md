@@ -2,3 +2,7 @@
 A data analysis project to see if there are any players similar to Sergio Busquets 
 # Findings 
 https://docs.google.com/spreadsheets/d/1SLTGWWvjKeZyul5Ti4Spcr1Lkj8clpwY8H0vWGbbBh8/edit?usp=sharing
+
+# PDF report
+
+(ETL_busquets.pdf)
